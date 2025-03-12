@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "ninjamod",
+    "name": "Ninja Mod",
+    "description": "Ao apertar o shift você teleporta para onde o último jogador atingido estáva.",
+    "version": "1.0.0",  // Versão do mod
+    "mcversion": "1.8.9", // Versão do Minecraft
+    "url": "github.com/alvaroduda/NinjaMOD",
+    "updateUrl": "github.com/alvaroduda/NinjaMOD",
+    "authorList": [""],
+    "credits": "github.com/alvaroduda/NinjaMOD",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
